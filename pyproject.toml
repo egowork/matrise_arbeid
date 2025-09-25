@@ -1,0 +1,12 @@
+[project]
+name = "matrise-arbeid"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pca>=2.10.0",
+    "qrpca>=1.5.6",
+    "torch>=2.8.0",
+    "torch-pca>=1.1.0",
+]
