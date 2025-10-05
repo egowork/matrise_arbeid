@@ -8,3 +8,31 @@ wheels/
 
 # Virtual environments
 .venv
+
+# GeoPandas and spatial data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+*.gpkg
+*.kml
+*.gml
+*.tif
+*.tiff
+*.vrt
+*.aux.xml
+*.qpj
+*.cst
+*.qix
+*.idx
+*.sbn
+*.sbx
+*.fbn
+*.fbx
+*.ain
+*.aih
+*.atx
+*.gpkg-journal
+

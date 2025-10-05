@@ -5,8 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "geopandas>=1.1.1",
+    "geostatspy>=0.0.77",
+    "numba>=0.62.1",
     "pca>=2.10.0",
+    "pykrige>=1.7.2",
     "qrpca>=1.5.6",
+    "rasterio>=1.4.3",
     "torch>=2.8.0",
     "torch-pca>=1.1.0",
+    "tqdm>=4.67.1",
 ]
